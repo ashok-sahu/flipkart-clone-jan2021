@@ -1,0 +1,11 @@
+// all libraries
+@import "~bootstrap/scss/bootstrap";
+@import "~react-toastify/scss/main";
+//util libs
+@import './utils/customStyle';
+
+//all components
+@import './components/componentStyle.scss';
+
+//all containers
+@import './container/container.scss'
